@@ -27,7 +27,7 @@ github_username:  sseotechno
 markdown: kramdown
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-slate
-remote_theme: "mistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
