@@ -1,0 +1,6 @@
+{% assign author = site.authors | where: 'slug', page.author | first %}
+{% if author %}
+  <span class="author">
+    <a href="{{ author.url }}">{{ author.title }}</a>
+  </span>
+{% endif %}
