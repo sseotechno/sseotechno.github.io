@@ -22,8 +22,10 @@ A minimum viable product (MVP) is a product with just enough features to satisfy
 8. Brand building very quickly 
 
 **Credits**
+
 Microsite by jekyll-organization / [jekyll](https://github.com/jekyll)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDMxMjk5Nl19
+eyJoaXN0b3J5IjpbLTE0NjAxNjIyNDAsMTk4NDMxMjk5Nl19
 -->
