@@ -14,7 +14,7 @@ gem "jekyll", "~> 3.8.5"
 # You may change this to anything you like.
 # gem "minima", "~> 2.0"
 gem "minima"
-
+gem "jekyll-theme-hacker"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
