@@ -21,7 +21,7 @@ Accelerate learning
 
 6. Brand building very quickly 
 
-**Credits** to
+**Credits to**
 
 [jekyll][jekyll-organization] /
 
@@ -29,5 +29,5 @@ Accelerate learning
 
 [jekyll-organization]: https://github.com/jekyll
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MTM5MjM1XX0=
+eyJoaXN0b3J5IjpbMTk4NDU1Njk2M119
 -->
